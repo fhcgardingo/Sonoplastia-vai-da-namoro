@@ -16,13 +16,6 @@ body {
   min-height: 100vh;
 }
 
-/* .bg {
-  background-image: url("images/vaidanamoro.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-} */
-
 h1 {
   color: var(--branca);
   margin-bottom: 20px;
@@ -51,6 +44,10 @@ h1 {
   line-height: 120px;
   text-align: center;
   width: 120px;
+}
+
+.tecla .tecla_buzina{
+  display: center;
 }
 
 .tecla.ativa,
